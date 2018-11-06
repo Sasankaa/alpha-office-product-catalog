@@ -1,4 +1,4 @@
-# alpha-office-product-catalog (Jdeveloper Version)
+# alpha-office-product-catalog (JDeveloper Version)
 
 Alpha Product Catalog tweeter feed consumption - j2ee
 

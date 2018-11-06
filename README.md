@@ -1,5 +1,5 @@
-# alpha-office-product-catalog
-Jdeveloper Version
+# alpha-office-product-catalog (Jdeveloper Version)
+
 Alpha Product Catalog tweeter feed consumption - j2ee
 
 ####  To run the application.

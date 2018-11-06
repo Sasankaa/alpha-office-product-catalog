@@ -8,3 +8,4 @@ Alpha Product Catalog tweeter feed consumption - j2ee
 2. Clone this project and run the **main.jsp** under the Web pages. _Make sure to run it in different port (Other than 8080)_**.
 3. The result will be displayed as follow. ![alt text](https://i.imgur.com/R73IgCX.png "Alpha Office Page") 
 ![alt text](https://github.com/Sasankaa/Misc/blob/master/10.png)
+![alt text](https://github.com/Sasankaa/Misc/blob/master/10_1.png)
